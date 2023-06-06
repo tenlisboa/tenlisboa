@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,16 +44,18 @@ Sunday                   6 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 mins              █████████████████████████   99.68 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+watch-it                 3 mins              █████████████████████████   99.51 % 
+test-watch               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +75,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2023 18:45:03 UTC
+ Last Updated on 06/06/2023 18:45:19 UTC
 <!--END_SECTION:waka-->
