@@ -63,7 +63,6 @@ Unknown Project          6 mins              ░░░░░░░░░░░�
 
 💻 Operating System: 
 Linux                    8 hrs 20 mins       █████████████████████████   100.00 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,5 +82,5 @@ Lua                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2023 18:42:27 UTC
+ Last Updated on 29/10/2023 18:43:14 UTC
 <!--END_SECTION:waka-->
