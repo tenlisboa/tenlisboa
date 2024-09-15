@@ -71,7 +71,7 @@
 <br/>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -137,7 +137,7 @@ WSL                      2 hrs 17 mins       █████░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-Go                       13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
@@ -151,5 +151,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2024 18:43:23 UTC
+ Last Updated on 15/09/2024 18:43:48 UTC
 <!--END_SECTION:waka-->
