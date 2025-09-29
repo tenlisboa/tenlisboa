@@ -51,11 +51,13 @@
 <br/>  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2049%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 59.4 kB Used in GitHub's Storage 
+> 📦 59.5 kB Used in GitHub's Storage 
  > 
 > 🏆 53 Contributions in the Year 2025
  > 
@@ -65,6 +67,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11109 commits       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+🌆 Daytime                26293 commits       ████████████████░░░░░░░░░   65.73 % 
+🌃 Evening                2589 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7397 commits        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Tuesday                  7775 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Wednesday                7021 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Thursday                 9270 commits        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Friday                   8407 commits        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Sunday                   59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,5 +123,5 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 19:06:47 UTC
+ Last Updated on 29/09/2025 19:06:50 UTC
 <!--END_SECTION:waka-->
