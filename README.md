@@ -51,6 +51,8 @@
 <br/>  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2049%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -65,6 +67,45 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11901 commits       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+🌆 Daytime                28005 commits       ████████████████░░░░░░░░░   65.58 % 
+🌃 Evening                2783 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7908 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Tuesday                  8323 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Wednesday                7486 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Thursday                 9808 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Friday                   9043 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Saturday                 75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Sunday                   59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,5 +123,5 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 19:07:56 UTC
+ Last Updated on 04/10/2025 19:04:02 UTC
 <!--END_SECTION:waka-->
