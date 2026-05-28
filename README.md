@@ -51,69 +51,28 @@
 <br/>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2047%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 122.5 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2026
+> 🏆 96 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                35790 commits       ████████░░░░░░░░░░░░░░░░░   30.21 % 
-🌆 Daytime                76156 commits       ████████████████░░░░░░░░░   64.28 % 
-🌃 Evening                6520 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   24766 commits       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Tuesday                  21053 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Wednesday                23105 commits       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Thursday                 26527 commits       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Friday                   22957 commits       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Saturday                 50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Sunday                   26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Go                       14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+TypeScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Go                       14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
@@ -123,5 +82,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:57:12 UTC
+ Last Updated on 28/05/2026 21:03:57 UTC
 <!--END_SECTION:waka-->
