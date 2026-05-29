@@ -51,13 +51,15 @@
 <br/>  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 122.5 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2026
+> 🏆 97 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,6 +67,45 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                36445 commits       ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌆 Daytime                77745 commits       ████████████████░░░░░░░░░   64.33 % 
+🌃 Evening                6645 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   25223 commits       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Tuesday                  21470 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Wednesday                23616 commits       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Thursday                 27083 commits       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Friday                   23385 commits       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Saturday                 50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Sunday                   26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,5 +123,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 21:03:57 UTC
+ Last Updated on 29/05/2026 21:09:55 UTC
 <!--END_SECTION:waka-->
