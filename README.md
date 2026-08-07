@@ -51,8 +51,6 @@
 <br/>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C002%20hrs%2037%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -70,21 +68,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44729 commits       ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-🌆 Daytime                98443 commits       ████████████████░░░░░░░░░   64.85 % 
-🌃 Evening                8566 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+🌞 Morning                45257 commits       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+🌆 Daytime                99216 commits       ████████████████░░░░░░░░░   64.80 % 
+🌃 Evening                8584 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+🌙 Night                  59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   30786 commits       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Tuesday                  27177 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Wednesday                29520 commits       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Thursday                 34909 commits       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Friday                   29290 commits       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Saturday                 67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Sunday                   50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Monday                   31215 commits       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Tuesday                  27312 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Wednesday                29761 commits       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Thursday                 35258 commits       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Friday                   29469 commits       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Saturday                 59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Sunday                   42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
@@ -129,5 +127,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 22:33:18 UTC
+ Last Updated on 07/08/2026 02:55:58 UTC
 <!--END_SECTION:waka-->
