@@ -53,11 +53,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C002%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 184.7 kB Used in GitHub's Storage 
+> 📦 194.2 kB Used in GitHub's Storage 
  > 
 > 🏆 289 Contributions in the Year 2026
  > 
@@ -70,21 +70,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                51544 commits       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-🌆 Daytime                111539 commits      ████████████████░░░░░░░░░   64.10 % 
-🌃 Evening                10786 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+🌞 Morning                50907 commits       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+🌆 Daytime                110303 commits      ████████████████░░░░░░░░░   64.09 % 
+🌃 Evening                10735 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+🌙 Night                  148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   34086 commits       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Tuesday                  30812 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Wednesday                32965 commits       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Thursday                 40503 commits       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Friday                   35332 commits       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Saturday                 262 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Sunday                   56 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Monday                   33652 commits       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Tuesday                  30489 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Wednesday                32592 commits       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Thursday                 39998 commits       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Friday                   35055 commits       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Saturday                 257 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Sunday                   50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
@@ -112,11 +112,11 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Python** 
 
 ```text
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
 TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-Python                   20 repos            ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
 Go                       14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
@@ -129,5 +129,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tenlisboa/tenlisboa/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 02:47:41 UTC
+ Last Updated on 10/10/2026 01:49:05 UTC
 <!--END_SECTION:waka-->
